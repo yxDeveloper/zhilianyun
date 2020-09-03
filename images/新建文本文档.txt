@@ -1,0 +1,12 @@
+<div class="wk_about_left"><img src="./home/about_img.png" alt=""></div>
+<div class="wk_about_right">
+            <div class="wk_about_top"> <a><img src="./home/about_ico1.png" alt=""></a> <a><img src="./home/about_ico2.png" alt=""></a> <a><img src="./home/about_ico3.png" alt=""></a> <a style="margin-right:0;"><img src="./home/about_ico4.png" alt=""></a>
+              <div class="clear"></div>
+            </div>
+            <div class="wk_about_des">
+              <p>天津鼎卓企业管理咨询服务有限公司，秉承诚信文本，稳步为营的经营理念。 <br />
+                主要为大小型企业解决人员流失，员工精神涣散， <br />
+                打造团队凝聚力与执行力，狼一般团队配合的粘合度。 <br />
+                主营：拓展训练《野外，室内，高空，基地，旅游团建》内训《心态激励，形象礼仪，企业心里沙盘，凝聚力与执行力，心态减压，销售流程》代理记账，活动策划文化艺术交流，工商登记代理代办服务。 </p>
+            </div>
+          </div>
